@@ -18,7 +18,8 @@
 ## Connect
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-white?style=social&logo=linkedin&logoColor=0a66c2&labelColor=ef5353&color=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fivnteterin%2F)\
 ![Codewars](https://img.shields.io/badge/Codewars-Follow-white?style=social&logo=codewars&logoColor=ef5353&labelColor=ef5353&color=white&link=https%3A%2F%2Fwww.codewars.com%2Fusers%2Fivnteterin)\
-![Discord](https://img.shields.io/badge/Discord-Message-white?style=social&logo=discord&logoColor=515dea&labelColor=515be1&color=white&link=https%3A%2F%2Fwww.discordapp.com%2Fusers%2Fivnteterin)
+![Discord](https://img.shields.io/badge/Discord-Message-white?style=social&logo=discord&logoColor=515dea&labelColor=515be1&color=white&link=https%3A%2F%2Fwww.discordapp.com%2Fusers%2Fivnteterin)\
+![Behance](https://img.shields.io/badge/Behance-Follow-white?style=social&logo=behance&logoColor=0041d1&labelColor=515be1&color=white&link=https%3A%2F%2Fwww.behance.net%2Fivnteterin)
 
 
 
