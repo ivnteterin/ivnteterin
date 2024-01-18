@@ -14,7 +14,7 @@
 * **Version:** Git, GitHub
 * **Testing:** Jest, React Testing Library, Cypress
 * **Tools:** VSCode, Git, Postman, Adobe, Blender
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-ff69b4)](https://davidwerth.com/)
+* 
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-white?style=social&logo=linkedin&logoColor=0a66c2&labelColor=ef5353&color=white)](https://www.linkedin.com/in/ivnteterin)\
 [![Codewars](https://img.shields.io/badge/Codewars-Follow-white?style=social&logo=codewars&logoColor=ef5353&labelColor=ef5353&color=white)](https://www.codewars.com/users/ivnteterin)\
