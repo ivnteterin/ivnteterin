@@ -13,7 +13,7 @@
 * **Databases:** Firebase, MongoDB
 * **Version:** Git, GitHub
 * **Testing:** Jest, React Testing Library, Cypress
-* **Tools:** VSCode, Git, Postman
+* **Tools:** VSCode, Git, Postman, Adobe, Blender
 
 ## Connect
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-white?style=social&logo=linkedin&logoColor=0a66c2&labelColor=ef5353&color=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fivnteterin%2F)\
